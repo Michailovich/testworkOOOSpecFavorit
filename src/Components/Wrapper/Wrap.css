@@ -1,0 +1,11 @@
+.wrap{
+    position: absolute;
+    width: 516px;
+    height: 608px;
+    background: #FFFFFF;
+    box-shadow: -10px 7px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
